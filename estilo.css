@@ -1,0 +1,20 @@
+Body, html{
+    background-color: #ffffcc;
+    margin:auto;
+    border:solid 10px #000099;  
+
+    }
+    
+    #titulo {
+
+        text-align: center;
+        color: red;
+    }  
+
+
+footer{    
+
+    clear: both;
+    text-align: center;
+
+}
